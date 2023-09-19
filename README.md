@@ -51,7 +51,7 @@ https://dx.doi.org/10.2305/IUCN.UK.2022-1.RLTS.T179055548A179055550.en
 https://dx.doi.org/10.2305/IUCN.UK.2022-1.RLTS.T179056157A179056160.en
 https://dx.doi.org/10.2305/IUCN.UK.2022-1.RLTS.T179086396A179086399.en
 ```
-Please specify the links file name on line 27 in the `main.py` file as in the below example:
+Please specify the links file name on line 25 in the `main.py` file as in the below example:
 ```
 links_file = "links/no_justification_links.csv"
 ```
@@ -63,7 +63,7 @@ If you need to stop and restart the program at any point, the position ensures y
 
 
 ### 3. Specify the Results File 
-Please specify the name of your results csv file on line 28 as in the example below:
+Please specify the name of your results csv file on line 26 as in the example below:
 ```
 results_file = "results/data_no_justification.txt"
 ```
@@ -72,8 +72,12 @@ If no file is yet found, the code will create the file. If the file already exis
 
 #### 4. Specify the Errors File
 The errors file contains the links at which data scraping was not successful. The links are saved for potential manual scraping.
-Please specify the name of the errors csv file on line ... as in the below example:
+Please specify the name of the errors csv file on line 27 as in the below example:
 ```
 errors_file = "errors/errors_no_justification.txt"
 ```
 If no file is yet found, the code will create the file. If the file already exists, new information will be appended to it.
+
+#### 5. Execute the Program.
+For each link the extracted information will be printed to the console such that you know the scraping process is running. 
+
