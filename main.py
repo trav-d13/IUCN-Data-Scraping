@@ -5,14 +5,12 @@ The Selenium tool makes use of the Firefox web-browser extension to render a liv
 and at which HTML elements can be extracted using their XPATH.
 
 Please make sure the correct files are specified when running this document:
-Line 54: Specify the txt file to which the collected data will be written to. The file must already exist.
-Line 65: Specify the txt file to which the urls at which errors occur are written to for manual investigation
-The position.csv file must specify the value 0 at the start of data collection.
+File names must be specified on lines 25-27.
 This will track the current url to be collected and allow stopping and starting the process with no repeated data collection
 
 
 Author: Travis Dawson
-Disclaimer: ChatGPT was used in the creation of certain eqlements within this script.
+Disclaimer: ChatGPT was used in the creation of certain elements within this script.
 """
 
 from selenium import webdriver
@@ -21,7 +19,12 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import csv
 from selenium.webdriver.firefox.options import Options
+import os
 
+# File names
+links_file = "links/no_justification_links.csv"
+results_file = "results/data_no_justification.txt"
+errors_file = "errors/errors_no_justification.txt"
 
 
 def extract_element_by_xpath(xpath: str):
@@ -49,8 +52,8 @@ def extract_justification_and_assessors():
 
     driver.execute_script("arguments[0].click();", button)
 
-    justification = extract_element_by_xpath("/html/body/div[3]/div[2]/main/div/div/div[5]/article[2]/div[3]/div[2]/div/div[2]/div/p")
-    assessors = extract_element_by_xpath("/html/body/div[3]/div[2]/main/div/div/div[5]/article[2]/div[3]/div[2]/div/div[1]/div[4]")
+    justification = extract_element_by_xpath("/html/body/div[2]/div[2]/main/div/div/div[5]/article[2]/div[3]/div[2]/div/div[2]/div/p")
+    assessors = extract_element_by_xpath("/html/body/div[2]/div[2]/main/div/div/div[5]/article[2]/div[3]/div[2]/div/div[1]/div[4]/p")
     return justification, assessors
 
 
@@ -65,13 +68,30 @@ def write_to_file(scientific_name, criteria, country, justification, assessors):
         justification (str): The justification behind the criteria rating
         assessors (str): The names of the assessors passing the criteria and justification
     """
-    with open("results/data_no_justification.txt", "a") as f:
-        f.write(scientific_name + "\n")
-        f.write(criteria + "\n")
-        f.write(country + "\n")
-        f.write(justification + "\n")
-        f.write("Assessors: " + assessors + "\n")
-        f.write("\n")
+    if os.path.exists(results_file):
+        with open(results_file, "a") as f:
+            write_information(f, scientific_name, criteria, country, justification, assessors)
+    else:
+        with open(results_file, "w") as f:
+            write_information(f, scientific_name, criteria, country, justification, assessors)
+
+
+def write_information(f, scientific_name, criteria, country, justification, assessors):
+    """
+    Args:
+        f: File to write the informatio to
+        scientific_name (str): The scientific name of the specie
+        criteria (str): The criteria of the specie vulnerability classification
+        country (str): The country in which the specie is found
+        justification (str): The justification behind the criteria rating
+        assessors (str): The names of the assessors passing the criteria and justification
+    """
+    f.write(scientific_name + "\n")
+    f.write(criteria + "\n")
+    f.write(country + "\n")
+    f.write(justification + "\n")
+    f.write("Assessors: " + assessors + "\n")
+    f.write("\n")
 
 
 def write_error_to_file(url):
@@ -80,8 +100,12 @@ def write_error_to_file(url):
     Args:
         url (str): The URl at which the error occurred
     """
-    with open("errors/errors_no_justification.txt", "a") as file:
-        file.write(url + "\n")
+    if os.path.exists(errors_file):
+        with open(errors_file, "a") as file:
+            file.write(url + "\n")
+    else:
+        with open(errors_file, "w") as file:
+            file.write(url + "\n")
 
 
 def read_position():
@@ -127,23 +151,23 @@ def extract_information(url, driver):
     """
     driver.get(url)  # Create the web-page specified by the url
 
-    try:
-        scientific_name = extract_element_by_xpath("/html/body/div[3]/div[2]/main/div/div/header/div/div/div/div[1]/p")  # Extract the scientific name using method 1
+    try:  # Method 1 tries to access the scientific name when it is the page heading
+        scientific_name = extract_element_by_xpath("/html/body/div[2]/div[2]/main/div/div/header/div/div/div/h1")  # Extract the scientific name using method 1
         print(scientific_name)
     except Exception:
         print("Error in method 1")
 
-    try:
-        scientific_name = extract_element_by_xpath("/html/body/div[3]/div[2]/main/div/div/header/div/div/div/h1")  # Extract the scientific name using method 2
+    try:  # Method 2 tries to access the scientific name when its the subheading
+        scientific_name = extract_element_by_xpath("/html/body/div[2]/div[2]/main/div/div/header/div/div/div/div[1]/p/span[1]/span/em[1]")  # Extract the scientific name using method 2
         print(scientific_name)
     except:
         print("Error in method 2")
 
-    criteria = extract_element_by_xpath("/html/body/div[3]/div[2]/main/div/div/div[5]/article[2]/div[2]/div/p[1]")  # Extract the criteria elements
+    criteria = extract_element_by_xpath("/html/body/div[2]/div[2]/main/div/div/div[5]/article[2]/div[2]/div/p[1]")  # Extract the criteria elements
     print(criteria)
 
     country = extract_element_by_xpath(
-        "/html/body/div[3]/div[2]/main/div/div/div[5]/article[3]/div[1]/div/div/div[2]/p")  # Extract the country elements
+        "/html/body/div[2]/div[2]/main/div/div/div[5]/article[3]/div[1]/div/div/div[2]/p")  # Extract the country elements
     print(country)
 
     justification, assessors = extract_justification_and_assessors()  # Extract the justification and assessor elements
@@ -157,7 +181,7 @@ def extract_information(url, driver):
 
 if __name__ == "__main__":
     position = read_position()
-    with open("links/no_justification_links.csv", "r") as file:  # Specify the file in which the species url links are composed
+    with open(links_file, "r") as file:  # Specify the file in which the species url links are composed
         csv_reader = csv.reader(file)
         for index, row in enumerate(csv_reader):  # Loop through all collected url in the file
             if index < position:  # Skip already collected urls to speed up the collection process
