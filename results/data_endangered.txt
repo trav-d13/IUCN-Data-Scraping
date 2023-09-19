@@ -1,0 +1,349 @@
+Goniothalamus stenopetalus
+Vulnerable B1ab(i,ii,iii)+2ab(i,ii,iii)
+Malaysia (Sabah)
+Goniothalamus stenopetalus is found in at least two Totally Protected Areas (TPAs) in Sabah: Crocker Range Park and Kinabalu Park. The estimated area of occupancy (AOO) and extent of occurrence (EOO) are 32 km2 and 1,139 km2 respectively. Due to land use change, an estimated past decline of 25% of AOO and 29% of EOO has resulted in a remaining distribution of 24 km2 and 813 km2 respectively (based on GeoCAT reduction analysis). The remaining subpopulations occur within protected areas. However, localities outside or at the border of the reserve are at risk of land use change and forest fire. Hence, it is assessed as Vulnerable.
+Assessors: Tsen, S., Maycock, C.R., Khoo, E., Nilus, R., Sugau, J., Tanggaraju, S. & Pereira, J.T.
+
+Guatteria aberrans
+Vulnerable B2ab(iii)
+Brazil; Colombia; Panama
+This species occurs in Panama, Colombia and Brazil. Because the main data source present for Guatteria aberrans is herbarium data, only criterion B was able to be used for the Red List assessment of this species. The area of occupancy (AOO) is smaller than 2,000 km2, the number of locations is fewer than 10 and the habitat is declining due to logging and clearing for agriculture, therefore this species is assessed as Vulnerable.
+Assessors: Verspagen, N. & Erkens, R.H.J.
+
+Guatteria antioquensis
+Vulnerable B1ab(iii)+2ab(iii)
+Colombia
+This species is endemic to Colombia. Because the main data source that is present for Guatteria antioquensis is herbarium data, only criterion B was used for the Red List assessment of this species. The area of occupancy is smaller than 2,000 km2, the extent of occurrence is smaller than 20,000 km2, the number of locations is fewer than 10 and the habitat is expected to continue to decline, and thus this species is assessed as Vulnerable.
+Assessors: Verspagen, N. & Erkens, R.H.J.
+
+Guatteria arenicola
+Vulnerable B2ab(iii)
+Brazil; Ecuador; Peru
+This species occurs along the borders of Ecuador, Peru and Brazil. Because the main data source for Guatteria arenicola is herbarium data, only criterion B was used for the Red List assessment of this species. The area of occupancy is smaller than 2,000 km2, the number of locations is approximately 10 and the habitat is expected to continue to decline and thus this species is assessed as Vulnerable.
+Assessors: Verspagen, N. & Erkens, R.H.J.
+
+Guatteria caribaea
+Vulnerable B2ab(iii)
+Dominica; Grenada; Guadeloupe; Martinique; Montserrat; Puerto Rico; Saint Kitts and Nevis; Saint Lucia
+This species occurs mostly on the Lesser but also on the Greater Antilles. The area of occupancy is smaller than 2,000 km2, the number of locations is 10 or fewer and the habitat has declined and is expected to continue to decline, and thus this species is assessed as Vulnerable.
+Assessors: Verspagen, N. & Erkens, R.H.J.
+
+Guatteria galeottiana
+Vulnerable B2ab(iii)
+Mexico (Chiapas, Oaxaca, Veracruz)
+This tree species is endemic to Mexico (Chiapas, Oaxaca and Veracruz). It has a restricted range with an area of occupancy of 172 km2. The forest in which this species grows, has been severely altered or even destroyed, hence, the populations are not well conserved and it is not a common tree species. The population size or trends are not known. However, due to its restricted range, continuing decline in habitat quality and extent, possibly as few as 10 locations and the species may be severely fragmented, this species is assessed as Vulnerable.
+Assessors: Verspagen, N., Erkens, R.H.J., Fuentes, A.C.D. & Martínez Salas, E.
+
+Guatteria gentryi
+Vulnerable B2ab(iii)
+Ecuador; Peru
+This species occurs in Peru and Ecuador. Because the main data source for Guatteria gentryi is herbarium data, only criterion B was used for the Red List assessment of this species. The area of occupancy is smaller than 2,000 km2, the number of locations is smaller than 10 and the habitat is expected to continue to decline, and thus this species was assessed as Vulnerable.
+Assessors: Verspagen, N. & Erkens, R.H.J.
+
+Guatteria grandiflora
+Vulnerable B2ab(iii)
+Guatemala; Mexico (Chiapas, Oaxaca, Veracruz)
+This is an uncommon tree species of Mexico and Guatemala, that occurs in primary forest between 800 and 1,000 m above sea level. The species is highly sensitive to slight disturbance, for example, when it is near the edge of the forest. There is continuing decline in habitat due to forest loss caused by agriculture and fires. The area of occupancy (AOO) is measured to 192 km2, using a 2x2 km2 grid. This is based on known records, and may be an underestimate of true area of occupancy, however, it is not thought to exceed 2,000 km2. Due to its restricted range, continuing decline in habitat quality and extent, possibly as few as 10 locations and the species may be severely fragmented, this species is assessed as Vulnerable.
+Assessors: Verspagen, N., Erkens, R.H.J., Fuentes, A.C.D. & Martínez Salas, E.
+
+Guatteria maguirei
+Vulnerable B2ab(iii)
+Brazil; Colombia; Venezuela, Bolivarian Republic of
+This species is known from the border area between Colombia, Venezuela and Brazil. Because the main data source for Guatteria maguirei is herbarium data, only criterion B was used for the Red List assessment of this species. The area of occupancy (AOO) is smaller than 2,000 km2, the species is severely fragmented and the habitat is expected to continue to decline, thus this species is assessed as Vulnerable.
+Assessors: Verspagen, N. & Erkens, R.H.J.
+
+Guatteria meliodora
+Vulnerable B2ab(iii)
+Brazil; Guyana; Peru
+Because the main data source for Guatteria meliodora is herbarium data, only criterion B was used for the Red List assessment of this species. The area of occupancy is smaller than 2,000 km2, the number of locations is smaller than 10 and the habitat is expected to continue to decline, thus this species is assessed as Vulnerable.
+Assessors: Verspagen, N. & Erkens, R.H.J.
+
+Guatteria pichinchae
+Vulnerable B1ab(iii)
+Ecuador
+Guatteria pichinchae is an tree endemic to Ecuador, that occurs in occurs in lowland or montane forest. The current population size and population trend of this species are unknown. The extent of occurrence (EOO) is smaller than 20,000 km2, the number of locations is fewer than 10 and the habitat is expected to continue to decline, thus this species is assessed as Vulnerable.
+Assessors: Verspagen, N. & Erkens, R.H.J.
+
+Guatteria procera
+Vulnerable A4c
+Brazil; Guyana; Suriname; Venezuela, Bolivarian Republic of
+This species occurs in northern South America. The species is represented by a small number of herbarium records giving a small area of occupancy (AOO) of 52 km2. However, this AOO is suspected to be an underestimate due to the low collection effort. However with the current records, the extent of occurrence (EOO) is measured as 1,793,733 km2, but due to the loss of localities in the Brazilian state of Rondónia, the EOO is suspected to have declined by 39%. The main threats to the species is land conversion to urban areas but primarily conversion to agriculture. There may also be some impact due to logging. As these threats are continuing it is suspected that over three generations, population decline will be at least 30%. The species is assessed as Vulnerable.
+Assessors: Verspagen, N., Erkens, R.H.J. & Barstow, M.
+
+Guatteria sanctae-crucis
+Vulnerable B2ab(iii)
+Bolivia, Plurinational States of; Peru
+This species occurs in Peru and Bolivia. Because the main data source for Guatteria sanctae-crucis is herbarium data, only criterion B was used for the Red List assessment of this species. The area of occupancy (AOO) is smaller than 2,000 km2, the number of locations is smaller than 10 and the habitat is expected to continue to decline, thus this species was assessed as Vulnerable.
+Assessors: Verspagen, N. & Erkens, R.H.J.
+
+Guatteria venosa
+Vulnerable B1ab(iii)+2ab(iii)
+Ecuador
+This species is confined to Western Ecuador. Because the main data source for Guatteria venosa is herbarium data, only criterion B was used for the Red List assessment of this species. The area of occupancy (AOO) is smaller than 2,000 km2, the extent of occurrence (EOO) is smaller than 20,000 km2, the number of locations is fewer than ten and the habitat is expected to continue to decline, thus this species was assessed as Vulnerable.
+Assessors: Verspagen, N. & Erkens, R.H.J.
+
+Hexalobus mossambicensis
+Vulnerable B2ab(iii)
+Mozambique
+Hexalobus mossambicencis is an endemic small tree, from the eastern Mozambique. Although it is found in two protected areas, the species is currently threatened by habitat loss due to planned gas extraction, clearance for agriculture and expansion of human settlements in the region. Its area of occupancy (AOO) is small, thought to be less than 2,000 km², and it is estimated to occur in fewer than 10 locations. As a result, the species is assessed as Vulnerable.
+Assessors: Cosiaux, A., Couvreur, T.L.P. & Erkens, R.H.J.
+
+Hornschuchia myrtillus
+Vulnerable B2ab(ii,iii)
+Brazil (Bahia, Espírito Santo, Minas Gerais)
+Esta espécie é popularmente conhecida por Pindaíba-rasteira. Ocorre no domínio da Mata Atlântica em Floresta Estacional Semidecidual e Floresta Ombrófila, nos estados da Bahia e Minas Gerais. Com uma área de ocupação (AOO) de 72 km², está sujeita a dez situações de ameaça.
+
+Perda de habitat como consequência do desmatamento, desenvolvimento urbano, mineração, agricultura e pecuária, são ameaças à espécie e representam a maior causa de redução na biodiversidade da Mata Atlântica. Estima-se que restem apenas entre 11,4% a 16% da vegetação original deste hotspot, e cerca de 42% da área florestal total é representada por fragmentos menores que 250 ha (Ribeiro et al., 2009).
+
+Da mesma forma é possível detectar a degradação da vegetação pela mineração de granito e fosfato no município de Águia Branca e ao redor do município de Linhares (ES) que vem sendo ocupado por empreendimentos minerários (DNPM, SIGMINE, 2019). Essa região foi recentemente (2015) diretamente afetada pelo maior desastre ambiental causado por mineração, com o rompimento da barragem de Fundão no município de Mariana (MPF, 2017).
+
+A área relativamente grande ocupada por categorias de uso do solo como pastagem, agricultura e solo descoberto, e a pequena área relativa ocupada por floresta em estágio avançado de regeneração revelam o alto grau de fragmentação da Mata Atlântica no Sul-Sudeste da Bahia (Landau, 2003). Grande parte das florestas úmidas do sul da Bahia estão fragmentadas como resultado da atividade humana realizadas no passado, tais como o corte madeireiro e implementação da agricultura (Paciencia e Prado, 2005).
+
+Embora registrada em Unidade de Conservação de proteção integral, infere-se o declínio contínuo de AOO, extensão e qualidade do habitat. A espécie foi assim considerada Vulnerável (VU) à extinção, devendo ser incentivadas ações de pesquisa (distribuição e censo populacional) e conservação (in situ e ex situ, inclusão em Plano de Ação e Planos de Manejo) para garantir sua perpetuação na natureza.
+Assessors: Moraes, M., Crispim, G., Lopes, J. & Erkens, R.H.J.
+
+Huberantha flava
+Vulnerable B2ab(i,ii,iii)
+Philippines
+Huberantha flava is a small tree endemic to the Philippines. It occurs in the provinces of Isabela, Zambales, Rizal, Camarines, Surigao del Norte, Cotabato and Davao. The estimated extent of occurrence (EOO) is 432,483 km2 and the estimated area of occupancy (AOO) is at least 40 km2. There is an inferred population decline due to large scale forestry operations, shifting agriculture and urbanization, supported by estimated tree cover loss of 407,000 hectares within the species' range. Although the species is widely distributed in the country, it is assessed as Vulnerable due to its restricted AOO, in addition to inferred continuing declines in EOO, AOO and quality of habitat, caused by continuous tree cover loss.
+Assessors: Energy Development Corporation (EDC)
+
+Huberantha perrieri
+Vulnerable B2ab(i,ii,iii)
+Madagascar
+Huberantha perrieri is a small tree endemic to north eastern Madagascar (Antsiranana province). The estimated of extent of occurrence (EOO) based on herbarium specimen records is 21302 km², the estimated area of occupancy (AOO) is 64 km²  and this species occupies eight locations. Five subpopulations occur within protected areas. We predict that the ongoing loss of its habitat due to fire, logging and artisanal mining will induce a continuous decline in the quality of habitat and as well as of its EOO and AOO. Therefore this species is assessed as Vulnerable under criterion B.
+Assessors: Ravololomanana, N.
+
+Huberantha sambiranensis
+Vulnerable B2ab(i,ii,iv,v)
+Madagascar; Mayotte
+Huberantha sambiranensis is tree, found on Mayotte and in the Northwestern of  Madagascar, in Diana region (former province of Antsiranana). It has an estimated area of occupancy (AOO) of 28 km². The species exists at  six locations with respect to the main threat, shifting agriculture. Even though the species occurs within the protected areas of Ampasindava, Manongarivo and Lokobe; continuing declines are projected in its habitat quality and in the number of mature individuals, as result of ongoing threats both inside and outside protected areas from expansion of cultivation areas and logging (Madagascar), erosion and development for tourism (Mayotte). Based on the available information, Huberantha sambiranensis is assessed as Vulnerable under criterion B.
+Assessors: Andriamanohera, A.M.
+
+Isolona cauliflora
+Vulnerable B1ab(iii,iv,v)+2ab(iii,iv,v)
+Kenya; Tanzania, United Republic of
+Isolona cauliflora is an endemic tree from the lowland rainforests of Kenya and Tanzania. Its extent of occurrence (EOO) is small, at only 11,949 km², and its area of occupancy (AOO) is also very restricted (72 km²). Although the species is found in six protected areas, it is affected by severe habitat loss due to forest clearance for agriculture and logging for charcoal burning, and it is estimated to occur in 6–10 locations. Therefore the species is listed as Vulnerable.
+Assessors: Cosiaux, A., Couvreur, T.L.P. & Erkens, R.H.J.
+
+Isolona deightonii
+Vulnerable A1c+2c
+Ghana; Sierra Leone
+
+Assessors: Hawthorne, W.
+
+Isolona heinsenii
+Vulnerable B2ab(iii)
+Tanzania, United Republic of
+Isolona heinsenii is an endemic small tree from the Eastern Arc Moutains and adjacent coastal forests of Tanzania. Its area of occupancy (AOO) is thought to be less than 2,000 km² and the species is threatened by habitat loss due to forest clearance for agriculture. This tree is not abundant when it occurs and there are 10 locations identified. Although it is found is seven protected areas, the species is assessed as being Vulnerable.
+Assessors: Cosiaux, A., Couvreur, T.L.P. & Erkens, R.H.J.
+
+Isolona lebrunii
+Vulnerable B2ab(ii,iii)
+Burundi; Congo, The Democratic Republic of the; Rwanda
+Isolona lebrunii is a poorly known tree distributed in the eastern Democratic Republic of Congo (DRC), Rwanda and Burundi. It is not well represented in herbaria and has not been recently collected. It is reported to grow in moist montane forests, from 1,650 to 2,150 m asl. Its extent of occurrence (EOO) is estimated at 179,960 km², far exceeding the threshold of the Vulnerable category under criterion B1. However, its area of occupancy (AOO) is restricted at 60 km², which qualifies for Endangered category under B2. The species could have been under-collected and have a slightly larger AOO but it would still fall below 2,000 km², the boundaries of any threatened category under criterion B. More than half of the taxon's range is affected by habitat loss due to the combination of several major threats: mining exploitation, forest clearance for subsistence agriculture and tree cutting for charcoal production. The 13 known subpopulations of the species corresponds to nine locations, making the condition "a" met, and we infer a continuing decline in the extent of its habitat and its AOO. In addition, the species is only known to occurs in one protected area in Rwanda (Nyungwe National Park). As a result, the species is assessed as being Vulnerable (B2ab(ii,iii)).
+Assessors: Cosiaux, A., Couvreur, T.L.P. & Erkens, R.H.J.
+
+Isolona perrieri
+Vulnerable B2ab(i,ii,iii,v)
+Madagascar
+Isolona perrieri endemic to Madagascar occurs in humid forest between the northeast to the southeast from sea level to 1,000 m elevation. The extent of occurrence was estimated to be 152,465 km2 and the area of occupancy 52 km2 and using GeoCAT, based on the known extant localities with eight locations. There are about nine subpopulations detected and it is not subject to ex situ conservation. The habitat of the species is threatened by agriculture expansion, mining and logging which affect the survival of the species. Therefore, it is assessed as Vulnerable.
+Assessors: Andriamanohera, A.M.
+
+Isolona pilosa
+Vulnerable B2ab(iii)
+Angola (Cabinda); Cameroon; Congo; Congo, The Democratic Republic of the; Gabon
+Isolona pilosa is a small tree distributed across the West of Central Africa (Cameroon, Gabon, Congo, Democratic Republic of Congo and Cabinda Enclave of Angola). It is only represented by 16 herbarium specimens and recent collections are missing (a single collection over the past 30 years). This implies the species is either uncommon or has become rare. In addition it might be under-collected in Congo, Democratic Republic of Congo and Cabinda Enclave. Its extent of occurrence (EOO) is large, estimated at 1,015,783 km², far exceeding the threshold for the Vulnerable category under criterion B1. However, its area of occupancy (AOO) is restricted, at only 52 km², which qualifies for Endangered category under B2, and the subpopulations are thought to be small. The main threats to the species are habitat degradation and loss due to logging (in Cameroon, Gabon and Congo) and habitat loss due to forest clearance for agriculture (mainly in Democratic Republic of Congo). The species is estimated to occur in nine locations, making the condition "a", met. Finally, it is only known from a single protected area (Odzala National Park in Congo). As a result, despite its large geographic distribution, the species is assessed as being Vulnerable (B2ab(iii)).
+Assessors: Cosiaux, A., Couvreur, T.L.P. & Erkens, R.H.J.
+
+Klarobelia napoensis
+Vulnerable B2ab(iii)
+Ecuador; Peru
+This tree species occurs in Ecuador and Peru. The extent of occurrence (EOO) was large enough to not be considered threatened (194,638 km2) but the area of occupancy (AOO) is small (32 km2) and could potentially qualify the species as threatened. Although the AOO is likely to be underestimated it is not thought that it exceeds 2,000 km2. From data on forest cover loss (Hansen et al. 2013), it was inferred that habitat loss is a threat for this species since it occurs in regions where forest cover loss has been observed in the past years. The number of locations was determined as 8. Therefore, this species is assessed as Vulnerable.
+Assessors: Verspagen, N. & Erkens, R.H.J.
+
+Klarobelia stipitata
+Vulnerable B1ab(i,ii,iii)+2ab(i,ii,iii)
+Costa Rica
+This tree species is endemic to Costa Rica. The extent of occurrence (EOO of 5,216 km2) is small enough to be considered Vulnerable whereas the area of occupancy (AOO of 56 km2) fits in the Endangered category. From data on forest cover loss (Hansen et al. 2013), it was inferred that habitat loss is a threat for this species since it occurs in regions where forest cover loss has been observed in the past years. It was determined that Klarobelia stipitata has six to nine locations, which makes this species Vulnerable based on the currently available data. However, some occurrence points are situated in deforested areas and thus it is possible that some points do not exist anymore, making the range smaller. However, this assessment was based on the best available data using herbarium records.
+Assessors: Verspagen, N. & Erkens, R.H.J.
+
+Malmea cuspidata
+Vulnerable D2
+Peru
+
+Assessors: World Conservation Monitoring Centre
+
+Mezzettia umbellata
+Vulnerable A2c
+Brunei Darussalam; Indonesia (Kalimantan); Malaysia (Sarawak, Sabah)
+It is suspected that forest loss values for this lowland forest tree species are likely to bear a linear relationship to population reductions and, making use of information for similar species and analysis of forest loss, calculations result in an estimated population reduction of 36.8%. Although not specifically noted as a timber species, other similar species are utilised, and it may be subject to logging. Additionally, the rates of forest loss in peat swamp forest (a known habitat for this species) are noted to be higher than general lowland forest loss. Its karangas habitat is also easily degraded by logging and burning activities. However, it does occur in some protected areas where forest losses, whilst often not eliminated, are inferred to be minimized. Although there is uncertainty and forest losses have not been uniform, it is suspected that the population reductions for this species could fall within the values for a threatened category under criterion A. In view of this, it is assessed as Vulnerable.
+Assessors: Chadburn, H.
+
+Miliusa nilagirica
+Vulnerable B1+2c
+India (Tamil Nadu, Kerala, Karnataka)
+
+Assessors: World Conservation Monitoring Centre
+
+Miliusa parviflora
+Vulnerable B2ab(iii)
+Malaysia (Peninsular Malaysia); Thailand
+Miliusa parviflora is a tree species occurring in Peninsular Malaysia and Thailand, and the Andaman Islands. It possibly occurs in Laos. It occurs in primary evergreen forest and is found on limestone slopes. The extent of occurrence (EOO) is calculated as 56,828 km2 and the area of occupancy (AOO) is at least 16 km2. It is known from four collecting localities (Tarmuqli Island, Langkawi, Perlis, Songkhla). However, it is likely to be undercollected and the number of locations is estimated at 4–10. The locations in Peninsular Malaysia and Thailand are in areas that are under pressure from urbanisation and tourism. Limestone hills are also threatened by mining and quarrying. The species is assessed as Vulnerable.
+Assessors: Verspagen, N., Erkens, R.H.J. & Hills, R.
+
+Miliusa zeylanica
+Vulnerable A1c
+Sri Lanka
+
+Assessors: World Conservation Monitoring Centre
+
+Mitrephora clemensiorum
+Vulnerable D2
+Malaysia (Sabah)
+Mitrephora clemensiorum is restricted to three sites on the western side of Mount Kinabalu. The estimated area of occupancy (AOO) and extent of occurrence (EOO) are both 12 km2 and are not in decline. It is protected within Kinabalu Park, a Totally Protected Area (TPA). The possible threat is climate change which could drive the species towards Critically Endangered or Extinct in the near future. Hence, it is assessed as Vulnerable D2.
+Assessors: Hoo, P.K., Maycock, C.R., Damit, A., Nilus, R., Sugau, J., Tanggaraju, S., Tsen, S. & Pereira, J.T.
+
+Mitrephora fragrans
+Vulnerable B1+2c
+Philippines
+
+Assessors: World Conservation Monitoring Centre
+
+Mitrephora grandiflora
+Vulnerable B1+2c
+India (Kerala, Karnataka)
+
+Assessors: World Conservation Monitoring Centre
+
+Mitrephora wangii
+Vulnerable A2c
+China (Yunnan)
+
+Assessors: China Plant Specialist Group
+
+Mkilua fragrans
+Vulnerable B2ab(iii)
+Kenya; Tanzania, United Republic of
+Mkilua fragrans is a small tree, endemic from the coastal forest of Kenya and Tanzania and the lowermost slopes of the East Usambara Mountains. Its area of occupancy (AOO) is small, being estimated at only 128 km² and there are 10 locations identified. Although the species is found in five protected areas and is planted near human settlements, it is threatened (in the wild) by habitat loss and habitat degradation. As a result the species is assessed as Endangered.
+Assessors: Cosiaux, A., Couvreur, T.L.P. & Erkens, R.H.J.
+
+Monanthotaxis suffruticosa
+Vulnerable B2ab(iii)
+Mozambique; Tanzania, United Republic of
+Monanthotaxis suffruticosa is a scarce species of dry coastal forest, thicket and woodland in southeast Tanzania and northeast Mozambique. Whislt it has an extent of occurrence (EOO) of over 95,000 km2, this species is known at present from only six locations and is considered highly likely to have an area of occupancy (AOO) of considerably less than 2,000 km2. It is threatened in parts of its range, particularly in the Mozambican subpopulations, by habitat loss due to an expanding human population and increasing exploitation of natural resources and removal of woody vegetation. Oil and gas exploration in this area are also likely to threaten this species, not least through further local human population increases, attracted by the employment opportunities. Whilst the Tanzanian populations are likely to be more secure, there are increasing concerns over the long-term future of the Selous Game Reserve and the species it supports. With fewer than 10 locations known and an ongoing decline in extent and quality of suitable habitat, this species is currently assessed as Vulnerable under criterion B2 - VU B2ab(iii).
+Assessors: Darbyshire, I. & Rokni, S.
+
+Monanthotaxis trichantha
+Vulnerable B2ab(ii,iii,v)
+Tanzania, United Republic of
+Has a small area of occupancy (probably lower than the 500 km² threshold for Endangered), is known from six to seven locations, and it is hard to know if it is severely fragmented or not. May well be able to persist under disturbance, but to be precautionary is listed as Vulnerable because of ongoing habitat loss.
+Assessors: Eastern Arc Mountains & Coastal Forests CEPF Plant Assessment Project
+
+Monocarpia euneura
+Vulnerable A2c
+Brunei Darussalam; Indonesia (Kalimantan); Malaysia (Sarawak)
+The estimated extent of occurrence (EOO) of 420,000 km2 for this tree exceeds the values needed for a threatened category under criterion B. However, the area of occupancy (AOO) is less certain since no comprehensive survey information is available. This tree is relatively little recorded and may possibly be rare and the AOO may fall within threatened values. Although there are certainly continuing declines in area, extent and quality of habitat it is suspected that this lowland tree species may still be found at more than 10 locations and, as some larger blocks of habitat remain, particularly in protected areas it may not qualify as severely fragmented. As a perennial tree in a relatively constant environment it is suspected not to be subject to extreme fluctuations, however, it could qualify as Near Threatened under criterion B. The continued presence of this lowland tree species in several former areas of collection is uncertain, particularly as it is a species of undisturbed lowland forests and these forests have undergone substantial losses and disturbance within its range. Although all estimates are uncertain, based on a relationship of lowland forest deforestation loss to population reductions, particularly as this tree is also likely to be utilised for timber, it is suspected that the reductions over a three-generation time frame will have been sufficient to be within a threatened category under criterion A. Using the calculated 44% reduction, it is assessed as Vulnerable. Surveys and research are needed to provide further information to enable a more accurate assessment of its current status, particularly as there are few recent records and the reduction was calculated from losses in the 0–500 m asl range and this species is found below 200 m for which specific loss information was not available.
+Assessors: Chadburn, H.
+
+Monodora stenopetala
+Vulnerable B2ab(i,ii,iii,iv)
+Malawi; Mozambique
+Monodora stenopetala is only distributed in Central Mozambique and South of Malawi. Its minimum area of occupancy (AOO) is small, being estimated at only 44 km² and the actual AOO is likely to be less than 5,000 km2. Its extent of occurrence (EOO) is not restricted, estimated at 43,944 km². There are 8-9 locations. The suitable habitat (dense woody vegetation) of this species is declining, largely from clearance for agriculture, with much of the woodland lost in areas outside of protected areas. Therefore the species is assessed as Vulnerable B2ab(i,ii,iii,iv).
+Assessors: Cosiaux, A., Couvreur, T.L.P. & Erkens, R.H.J.
+
+Monodora unwinii
+Vulnerable A1c, B1+2c
+Nigeria
+
+Assessors: World Conservation Monitoring Centre
+
+Mosannona costaricensis
+Vulnerable B1ab(iii)+2ab(iii)
+Costa Rica
+Mosannona costaricensis is a small tree species which is endemic to Costa Rica, known from the the southern pacific slope. It has a restricted distribution with an extent of occurrence (EOO) estimated to be 13,790 km2 and an area occupancy (AOO) of 48 km2. Based on the known localities and threats to this species, it is estimated that there are six locations. There is a continuing decline in the habitat extent and quality as this species occurs in areas where forest cover loss is reported (Hansen et al. 2013). Therefore, M. costaricensis is assessed as Vulnerable B1ab(iii)+2ab(iii).
+Assessors: Verspagen, N. & Zamora, N.A.
+
+Mosannona pachiteae
+Vulnerable B1ab(iii)
+Brazil; Peru
+This species occurs in Peru and Brazil. Its extent of occurrence (EOO) was large enough to not be considered threatened (361,265 km2), but the area of occupancy (AOO: 32 km2) is small and could potentially qualify the species as threatened. Although the AOO is likely to be underestimated, it is not thought that the AOO exceeds 2,000 km2. From data on forest cover loss (Hansen et al. 2013), it was inferred that habitat loss is a threat for this species since it occurs in regions where forest cover loss has been observed in the past years. The number of locations was then determined by overlaying the distribution map with a map of protected areas. This species was found in eight threat-based locations. Therefore, this species is assessed as Vulnerable.
+Assessors: Verspagen, N.
+
+Mwasumbia alba
+Vulnerable D2
+Tanzania, United Republic of
+Mwasumbia alba is an endemic tree from Tanzania, where it is only known to occur in the Kimboza Forest Reserve, at the base of the Uluguru Mountains. Its extent of occurrence (EOO) and area of occupancy (AOO) are very restricted, both estimated at only 4 km². Although its distribution range is small, its population is not severely fragmented and it appears to be relatively well protected inside the Forest Reserve. However, the species might be locally affected by habitat loss or habitat degradation in the future given conditions in the surrounding, unprotected habitat. Therefore as these threats could result in rapid decline of the species, it is assessed as Vulnerable (D2). However, further targeted fieldwork should be undertaken to look for additional sites.
+Assessors: Cosiaux, A., Couvreur, T.L.P. & Erkens, R.H.J.
+
+Oncodostigma hainanense
+Vulnerable A1cd
+China (Hainan, Guangxi)
+
+Assessors: World Conservation Monitoring Centre
+
+Orophea palawanensis
+Vulnerable B1+2c
+Philippines
+
+Assessors: World Conservation Monitoring Centre
+
+Orophea submaculata
+Vulnerable B1+2c
+Philippines
+
+Assessors: World Conservation Monitoring Centre
+
+Orophea uniflora
+Near Threatened B1ab(iii)+2ab(iii)
+India (Kerala, Tamil Nadu, Karnataka)
+Orophea uniflora is a tree species endemic to the Western Ghats, India. It has a restricted distribution, scattered sparsely, with an extent of occurrence (EOO) of 13,281 km2 and area of occupancy (AOO) of 60 km2. This species occurs in areas that have been subject to habitat loss primarily from conversion to monoculture forest plantations, agricultural expansion and urbanisation. It is known from at least 14 locations and is assessed as Near Threatened.
+Assessors: Verspagen, N., Erkens, R.H.J., Amitha Bachan, K.H. & Devika, M.A.
+
+Oxandra maya
+Vulnerable B1ab(iii)
+Belize; Guatemala; Mexico
+This tree species is found in Mexico, Guatemala and Belize. The extent of occurrence (EOO) of 16,139 km2 falls within the Vulnerable threshold under Criteria B. From data on forest cover loss (Hansen et al. 2013), it was inferred that habitat loss is a threat for this species since it occurs in regions where forest cover loss has been observed in the past years. It was determined that this species has six locations, which makes it Vulnerable.
+Assessors: Verspagen, N. & Erkens, R.H.J.
+
+Oxandra sphaerocarpa
+Vulnerable B2ab(iii)
+Brazil; Ecuador; Peru
+This tree species occurs in periodically inundated forests of Brazil, Ecuador and Peru. While the extent of occurrence (EOO) of 755,224 km2 did not classify as threatened, the area of occupancy (AOO) of 48 km2 is small and could potentially qualify the species as threatened. Although the AOO is likely to be underestimate, it is not thought that the AOO exceeds 2,000 km2. From data on forest cover loss (Hansen et al. 2013), it was inferred that habitat loss is a threat for this species since it occurs in regions where forest cover loss has been observed in the past years. The number of locations was determined as 10, which means this species is assessed Vulnerable.
+Assessors: Verspagen, N. & Erkens, R.H.J.
+
+Piptostigma calophyllum
+Vulnerable B2ab(iii)
+Cameroon; Gabon
+Piptostigma calophyllum is only distributed in the lowland forests of Gabon and Cameroon. Its extent of occurrence (EOO) is estimated at 114,382 km², far exceeding the threshold of the Vulnerable category under criterion B1. This small tree is both found in primary and secondary lowland rainforests, but it is not abundant where it occurs. Its area of occupancy (AOO) is small, being estimated to only 48 km², which qualifies for Endangered category under B2. More than half of the taxon's range is inferred to be affected by habitat degradation and habitat loss, mainly due to logging and forest clearance for agriculture. The species is thus considered to occur in seven to eight locations. In addition, the species is not known yet to occur in any protected areas. Therefore, Piptostigma calophyllum is listed as Vulnerable (B2ab(iii)).
+Assessors: Cosiaux, A., Couvreur, T.L.P. & Erkens, R.H.J.
+
+Piptostigma giganteum
+Vulnerable B1+2c
+Nigeria
+
+Assessors: World Conservation Monitoring Centre
+
+Piptostigma goslineanum
+Vulnerable B1ab(iii)+2ab(iii)
+Cameroon
+Piptostigma goslineanum is an endemic understorey tree from the western part of Cameroon. Its extent of occurrence (EOO) is small, at only 9,020 km² and its area of occupancy (AOO), is also restricted, at 40 km². More than half of the taxon’s range is affected by habitat loss due to forest clearance, for both subsistence farming and small-holder plantations and the species is considered to occur in six locations. Although the species is found in the Bayang Mbo Sanctuary and the Douala-Edea Faunal Reserve, the species is not reported to occur in National Parks. Therefore it is assessed as being Vulnerable (B1ab(iii)+B2ab(iii)).
+Assessors: Cosiaux, A., Couvreur, T.L.P. & Erkens, R.H.J.
+
+Piptostigma macrophyllum
+Vulnerable B2ab(iii,iv)
+Cameroon
+Piptostigma macrophyllum is an endemic small tree, growing up to 5–10 m tall, from the lowland rainforests of western Cameroon. Its extent of occurrence (EOO), estimated at 21,961 km², is just above the threshold for the Vulnerable Category under criterion B1. Within the EOO, its area of occupancy (AOO) is small, only 32 km², which qualifies for Endangered category under B2. The species is threatened by habitat loss due to forest clearance for both subsistence farming and industrial plantations and it is considered to occur in six locations. Thus, the condition "a" is met. In addition we infer a continuing decline in the extent of its habitat and number of subpopulations. Although the species is found in two National Parks (Korup and Mount Cameroon), it is assessed as being Vulnerable).
+Assessors: Cosiaux, A., Couvreur, T.L.P. & Erkens, R.H.J.
+
+Piptostigma oyemense
+Vulnerable B2ab(iii)
+Cameroon; Gabon; Gabon
+Piptostigma oyemense is an understorey small tree from western Central Africa (Cameroon, Gabon). Despite it has been recently collected both in Cameroon and Gabon, it is only represented by 10 herbarium specimens. This implies the species is fairly uncommon across its range. In addition, it is reported to be not abundant where it occurs and it is only found in primary lowland forests. Its extent of occurrence (EOO) is not small, 106,446 km², exceeding the threshold of the Vulnerable category under criterion B1. However, its area of occupancy (AOO) is restricted, only 40 km², which qualifies for Endangered category under B2. The major threats to this species are habitat loss due to forest clearance for agriculture (especially in Cameroon) and habitat degradation/loss due to logging (In Gabon). The species is estimated to occur in eight threat-defined locations. The species is only known to occur in one protected area in Gabon (Monts de Cristal National Park). Therefore, the species is listed as Vulnerable (B2ab(iii)).
+Assessors: Cosiaux, A., Couvreur, T.L.P. & Erkens, R.H.J.
+
+Polyalthia lasioclada
+Vulnerable D2
+Malaysia (Sabah)
+Polyalthia lasioclada is restricted to the montane area in Kinabalu Park and Mensalong Forest Reserve, Sabah. The estimated area of occupancy (AOO) and extent of occurrence (EOO) are 16 km2 and 29 km2, respectively. Due to land use change, estimated past loss of the species' AOO and EOO has been about 20% and 22%, respectively. Decline has now ceased as the species is protected in situ in at least two Totally Protected Areas. However, the species is at risk from potential threats such as climate change and forest fire which if they occur could drastically change its conservation status to Critically Endangered or Extinct. Hence, it is assessed as Vulnerable.
+Assessors: Tsen, S., Maycock, C.R., Khoo, E., Nilus, R., Sugau, J., Tanggaraju, S. & Pereira, J.T.
